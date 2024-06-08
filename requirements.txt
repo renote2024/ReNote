@@ -1,0 +1,8 @@
+pandas
+ipykernel 
+jupyter 
+notebook 
+papermill 
+ollama 
+joblib
+diskcache
